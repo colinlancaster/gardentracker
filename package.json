@@ -1,0 +1,19 @@
+{
+  "name": "gardentracker",
+  "version": "1.0.0",
+  "description": "Tracks my gardening tasks on a monthly basis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/colinlancaster/gardentracker.git"
+  },
+  "author": "Colin Lancaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinlancaster/gardentracker/issues"
+  },
+  "homepage": "https://github.com/colinlancaster/gardentracker#readme"
+}
